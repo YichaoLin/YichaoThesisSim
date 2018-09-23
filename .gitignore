@@ -1,0 +1,17 @@
+*.db
+*.opendb
+*.ipch
+*.obj
+*.log
+*.tlog
+*.exe
+*.ilk
+*.pdb
+*.pch
+*.codeanalysis
+*.codeanalysisast
+*.idb
+*.aps
+*.txt
+*.py
+*.user
